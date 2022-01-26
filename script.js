@@ -1,6 +1,6 @@
     const listaPalabras = ['caballo', 'oveja', 'cerdo', 'chimpance','zanahoria','campecino','almuerzo'
                           ,'camello','herradura','radiografia','helado','macarrones','ballena','cocina','sofa'
-                          ,'computador','alcova','televisor','nevera','pantalla','ducha','ventana','escaparate'];
+                          ,'computador','alcoba','televisor','nevera','pantalla','ducha','ventana','escaparate'];
     let palabraAdivinar = [];
     let palabraMostrar = [];
     let historialLetrasUsuario = [];
